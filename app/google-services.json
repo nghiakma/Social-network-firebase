@@ -1,0 +1,144 @@
+{
+  "project_info": {
+    "project_number": "1079432080230",
+    "firebase_url": "https://instagramtest-23dc8-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "instagramtest-23dc8",
+    "storage_bucket": "instagramtest-23dc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:f831f67c39b83c51d436a7",
+        "android_client_info": {
+          "package_name": "com.example.clouddatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:1c3f90a6fde69797d436a7",
+        "android_client_info": {
+          "package_name": "com.example.clouddb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:7ef55a397a6ebf64d436a7",
+        "android_client_info": {
+          "package_name": "com.example.firebaserecyclerview"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:c98f9ab6666a5c2cd436a7",
+        "android_client_info": {
+          "package_name": "com.example.instagramtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:879b8dca4c0078e8d436a7",
+        "android_client_info": {
+          "package_name": "com.example.projectinstagram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:e658b479ffe6a6fdd436a7",
+        "android_client_info": {
+          "package_name": "com.example.realinsta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079432080230:android:6eb03faf7b326d99d436a7",
+        "android_client_info": {
+          "package_name": "com.example.realtimedatabase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPFQIUmNLZ3LkS_QPrJvGxR_5Hmv-itxQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
