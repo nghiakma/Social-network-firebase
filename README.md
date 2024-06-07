@@ -37,7 +37,11 @@ FEATURES:
 +) Options
 
 FIREBASE: 
+
 +) Realtime Database
+
 +) Auth
+
 +) Storage
+
 +) Firestore
